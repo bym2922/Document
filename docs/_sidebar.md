@@ -1,5 +1,4 @@
 <!-- docs/_sidebar.md -->
-- **服务设计规范**
-* [:us: 首页](markdown/zh-CN/AboutMidasPayment.md)
-* [:cn: 指南](markdown/zh-CN/IntelligenceInsight.md)
-* [指南](m)
+<!-- - **目录** -->
+* [接入工作台项目搭建](markdown/zh-CN/demo.md)
+* [文件的上传下载功能](markdown/zh-CN/File.md)

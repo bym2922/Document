@@ -11,12 +11,12 @@
 - 众多主题
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](markdown/zh-CN/AboutMidasPayment.md)
+[Get Started](markdown/zh-CN/demo.md)
 
 
 <!-- 背景图片 -->
 
-![](_media/bg1.gif)
+<!-- ![](_media/bg1.gif) -->
 
 <!-- 背景色 -->
 
